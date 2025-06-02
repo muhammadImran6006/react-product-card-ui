@@ -13,8 +13,8 @@ A beginner-friendly and visually appealing **Product Card UI** built using **Rea
 
 ## 📸 Preview
 
- <!--![screencapture-localhost-3000-2025-06-02-22_28_13](https://github.com/user-attachments/assets/dc2a482a-48f5-4ee7-8cbc-16ee454b0f3d)
- Replace with your own screenshot if available -->
+![screencapture-localhost-3000-2025-06-02-22_28_13](https://github.com/user-attachments/assets/f3eacc80-f599-407b-8320-728af4ad9f56)
+
 
 ## 📁 Folder Structure
 
@@ -56,10 +56,13 @@ react-product-card-ui/
 1. **Clone the repo**
    ```bash
      git clone https://https://github.com/muhammadImran6006/react-product-card-ui
-     cd react-product-card-ui
-     npm install
-     npm start
 
+
+  cd react-product-card-ui
+  
+  npm install
+  
+  npm start
 
  
 
