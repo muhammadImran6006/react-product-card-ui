@@ -55,13 +55,12 @@ react-product-card-ui/
 
 1. **Clone the repo**
    ```bash
+     git clone https://https://github.com/muhammadImran6006/react-product-card-ui
+     cd react-product-card-ui
+     npm install
+     npm start
+
+
  
-  git clone https://https://github.com/muhammadImran6006/react-product-card-ui.git
-
-  cd react-product-card-ui
-   
-  npm install
-
-  npm start
 
 
